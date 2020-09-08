@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51fb2277-c082-46e5-98f7-1b62bf378061" name="Default Changelist" comment="" />
+    <list default="true" id="51fb2277-c082-46e5-98f7-1b62bf378061" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hDiIpObdbZAW9DjpqtjtTvSb9a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +38,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599551987846</updated>
-      <workItem from="1599551989667" duration="34000" />
+      <workItem from="1599551989667" duration="793000" />
+      <workItem from="1599558012499" duration="1875000" />
     </task>
     <servers />
   </component>
@@ -40,6 +47,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1599552053393">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1599552053393" />
+    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1599552053392">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1599552053392" />
+    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1599552053392">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1599552053392" />
+    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1599552053392">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1599552053392" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1599552023105">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>

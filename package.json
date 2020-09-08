@@ -2,8 +2,25 @@
   "private": true,
   "dependencies": {
     "director": "^1.2.0",
-    "vue": "^2.1.8",
+    "todomvc-app-css": "^2.0.0",
     "todomvc-common": "^1.0.1",
-    "todomvc-app-css": "^2.0.0"
+    "vue": "^2.1.8"
+  },
+  "name": "index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fernandesrphl/integration-continue.git",
+  "author": "Fernandes Raphael <fernandes.rphl@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "prebuild-dev": "shx rm -rf dist/*",
+    "build-dev": "parcel build ./src/index.html --no-minify --public-url ./",
+    "prebuild": "shx rm -rf dist/*",
+    "build": "parcel build ./src/index.html --public-url ./",
+    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
+  },
+  "devDependencies": {
+    "shx": "^0.3.2"
   }
 }
